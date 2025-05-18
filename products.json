@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Ветка",
+    "price": 150,
+    "image": "/items/brench.png"
+  },
+  {
+    "id": 2,
+    "name": "Кларити",
+    "price": 300,
+    "image": "/items/clarity.png"
+  },
+  {
+    "id": 3,
+    "name": "Фласка",
+    "price": 220,
+    "image": "/items/flaska.png"
+  },
+  {
+    "id": 4,
+    "name": "Манго",
+    "price": 400,
+    "image": "/items/mango.png"
+  },
+  {
+    "id": 5,
+    "name": "Танго",
+    "price": 100,
+    "image": "/items/tango.png"
+  },
+  {
+    "id": 6,
+    "name": "Вард",
+    "price": 250,
+    "image": "/items/ward.png"
+  }
+]
